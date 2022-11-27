@@ -1,0 +1,16 @@
+remind me app
+
+developed on python code
+
+features
+top menu [ all based on switch case ]
+1) new user registeration - done
+2) user login- done
+3) reset password
+4) delete user details - done
+
+once user logs in [ also using switch cases ]
+1) add new reminder - done
+2) view reminder - done
+3) delete a reminder
+
