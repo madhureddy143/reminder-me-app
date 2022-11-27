@@ -1,0 +1,8 @@
+{
+    "reminders": [
+        {
+            "type": "type",
+            "message": "message"
+        }
+    ]
+}
