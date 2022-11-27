@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# user created reminders under reminders 
+reminders/**
+user_details.json
+
 # Distribution / packaging
 .Python
 build/
